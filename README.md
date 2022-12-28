@@ -4,6 +4,7 @@
 - 📫 How to reach me: colexfy@163.com
 - ⚡Make it a better day
   
+  ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjaxfy&show_icons=true&theme=darcula)
 <!--
 **ninjaxfy/ninjaxfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
