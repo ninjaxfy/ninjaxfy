@@ -1,5 +1,9 @@
-### Hi there 👋
+## Welcome to Feiy's Research Playground 👋
 
+- 🌱 I’m currently studying Machine Learning in Bioinfomatics
+- 📫 How to reach me: colexfy@163.com
+- ⚡Make it a better day
+  
 <!--
 **ninjaxfy/ninjaxfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
