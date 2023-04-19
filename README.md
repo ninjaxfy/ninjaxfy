@@ -2,7 +2,7 @@
 
 
   
-  ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjaxfy&show_icons=true&theme=darcula)
+  ![Feiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjaxfy)
 
 - 🌱 I’m currently focusing **Machine Learning in Bioinfomatics**
 - 📫 How to reach me: colexfy@163.com
